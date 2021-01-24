@@ -1,0 +1,18 @@
+{
+    "lang": "en",
+    "name": "Sharing PWA",
+    "short_name": "SharePWA",
+    "scope": "/",
+    "start_url": "/index.html",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "theme_color": "#000",
+    "description": "Your sharing ally against tracking",
+    "icons": [
+        {
+            "src": "shareapp.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
